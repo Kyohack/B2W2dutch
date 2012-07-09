@@ -1,110 +1,110 @@
-Geen Antwoord
+Geen antwoord
 Black2
 White2
-Male
-Female
-Battle
-Trade
-The City
-The Countryside
-Smart
-Athletic
-Time
-Money
-Appearance
-Substance
+Jongen
+Meisje
+Gevecht
+Ruilen
+De Stad
+Het Landschap
+Slim
+Atletisch
+Tijd
+Geld
+Uiterlijk
+Stof
 Cool
-Cute
-Strange
+Schattig
+Vreemd
 Tepig
 Oshawott
 Snivy
-Competition
-Cooperation
+Competitie
+Samenwerking
 -
-Go to the past
-Go to the future
-Don't need
-Family
-Friends
-Self
-Cool People
-Smart Person
-Funny Man
-Strange Person
-Chasing a dream
-Reality Check
+Ga naar het verleden
+Ga naar de toekomst
+Niet nodig
+Familie
+Vrienden
+Zichzelf
+Coole Mensen
+Slime Mensen
+Grappige Man
+Vreemde Persoon
+Een Droom achterna gaan
+Realiteits Check
 -
 -
-Interesting
+Interesant
 Cool
-Kind
-Rich
-Battles
-Collecting
-The Story
+Aardig
+Rijk
+gevechten
+Verzamelen
+Het Verhaal
 Pokémon
-Flying
-Become transparent
-Stop Time
-Read Minds
-Use
-Save
-Be Proud
-Donate
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
-Play Outside
-Shopping
-Reading
+Vliegen
+Transparant worden
+Stop de tijd
+Lees gedachten
+Gebruiken
+Opslaan
+Wees trots
+Donateren
+0 - 5 jaar
+5 - 10 jaar
+10 - 15 jaar
+15 - jaar
+Buiten Spelen
+Winkelen
+Lezen
 Video Games
-Sleeping Late
+Uitslapen
 Pop
 Rock
 Jazz
 Rap
-Classical
-News
-Drama
+Klassiek
+Nieuws
+Toneel
 Comedy
-Sports
-Cartoons
-Action
-Sci-Fi
-Romance
-Suspense
-Comedy
-Horror
-Action
-Puzzle
-RPG
-Adventure
-Simulation
 Sport
-Work
-Interpersonal
+Teken films
+Actie
+Sci-Fi
+Romantiek
+Spannend
+Comedy
+Griezel
+Actie
+Puzzel
+RPG
+Adventuur
+Simulatie
+Sport
+Werk
+interpersoonlijke
 Hobby
-Health
-Become Mighty
+Gezondheid
+Groot worden
 -
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
+Trainen
+Lezen
+Muziek
+Films
+Reizen
+Koken
+Vissen
 Video Games
 Student
-Office Worker
-Creator
-Self-Employed
-Public Official
-Homemaker
-Artist
-Job-Hopper
+Kantoormedewerker
+Ontwerper
+Werkt voor zichzelf
+Ambtenaar
+Bouwvakker
+Artiest
+Baan-springer
 Cheren
 Roxie
 Burgh
@@ -116,31 +116,31 @@ Marlon
 -
 -
 -
-Normal
-Fire
+Normaal
+Vuur
 Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Electrisch
+Gras
+Ijs
+Vecht
+Gif
+Grond
+Vliegend
+Psychisch
+Insect
+Steen
+Spook
+Draak
+Duister
+Staal
+0-10 Uur
+10-20 Uur
+20-30 Uur
+30-40 Uur
+40-50 Uur
+50-60 Uur
+60-70 Uur
+70-80 Uur
+80-90 Uur
+90-100 Uur
+100+ Uur
