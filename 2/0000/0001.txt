@@ -42,12 +42,12 @@ Het zat vast in een witte mist!\xfffe
 \xf000Ă\x0001\x0000's Verdedingskracht\xfffesteeg!
 \xf000Ă\x0001\x0000's Nauwkeurigheid\xfffesteeg!
 \xf000ĉ\x0001\x0000 \xfffewas gebruikt!
-Dit is niet goed! Je kan niet goed mikken\xfffewhen er Pokémon op het veld staan!
+Dit is niet goed! Je kan niet goed mikken\xfffeals er Pokémon op het veld staan!
 Er is geen plaats over in je PC!
-\xf000ć\x0001\x0001's effect voorkomt\xfffethe voorwerpen gebruik \xf000Ă\x0001\x0000!
-Dit is niet goed! Je kunt niet goed mikken op\xfffeat een Pokémon die niet goed in het zicht is!
-Dit is niet goed! Je kunt niet goed mikken op\xfffeat een Pokémon die niet in het zicht is!
+\xf000ć\x0001\x0001's effect voorkomt\xfffehet gebruik van voorwerpen \xf000Ă\x0001\x0000!
+Dit is niet goed! Je kunt niet goed mikken op\xfffe een Pokémon die niet goed in het zicht is!
+Dit is niet goed! Je kunt niet goed mikken op\xfffe een Pokémon die niet in het zicht is!
 Het is nog niet genoeg opgeladen.
 Professor Juniper’s woorden echode...\xfffeEr is altijd tijd, maar nu niet!\xf000븀\x0000\xfffe
-Het is onmogelijk om te mikken\xfffeals je niet geconcetreerd bent!
-De bal kon niet gebruikt worden\xfffehet apparaat wat Ghetsis gebruikt!
+Het is onmogelijk om te mikken\xfffeals je niet geconcentreerd bent!
+De bal kon niet gebruikt worden door\xfffehet apparaat wat Ghetsis gebruikt!
