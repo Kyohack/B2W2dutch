@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Choose a Pokémon.
-Use on which Pokémon?
-Replace which one?
-Battle using which Pokémon?
-Switch out which Pokémon?
+Kies een Pokémon.
+Gebruiken op welke Pokémon?
+Vervangen met welke?
+Vechten met welke Pokémon?
+Welke Pokémon ruilen?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -19,36 +19,36 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 PP
-SHIFT
+VERANDER
 ♂
 ♀
-SUMMARY
-CHECK MOVES
-CANNOT BATTLE
-IN BATTLE
+OVERZICHT
+CHECK AANVALLEN
+KAN NIET VECHTEN
+IN GEVECHT
 STAND BY
 PARTNER'S
-No item held
+Houd geen item vast
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Lv.
 \xf000Ȃ\x0001\x0000
-NEXT LV
+VOLGEND LV
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-ATTACK
+AANVAL
 \xf000Ȃ\x0001\x0000
-DEFENSE
+VERDEDIGING
 \xf000Ȃ\x0001\x0000
-SP. ATK
+SP. AANVAL
 \xf000Ȃ\x0001\x0000
-SP. DEF
+SP. VERDEDIGING
 \xf000Ȃ\x0001\x0000
-SPEED
+SNELHEID
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -56,19 +56,19 @@ PP
 \xf000ȁ\x0001\x0000
 ／
 ――
-POWER
+KRACHT
 \xf000Ȃ\x0001\x0000
 ―
-ACCURACY
+ACCURAATHEID
 \xf000Ȃ\x0001\x0000
-CATEGORY
-PHYSICAL
+CATEGORIE
+FYSIEK
 STATUS
-SPECIAL
-APPEAL POINT(s)
-FORGET
-CANCEL
-HM moves can't be\xfffeforgotten now.
+SPECIAAL
+AANTREKKELIJKHEIDS PUNT(EN)
+VERGEET
+STOP
+HM aanvallen kunnen nu\xfffeniet vergeten worden.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,25 +84,25 @@ HM moves can't be\xfffeforgotten now.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 is\xfffealready in battle!
-\xf000Ă\x0001\x0000 has no energy\xfffeleft to battle!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-An Egg can't battle!
-You cannot decide for\xfffeyour partner!
-It won't have any effect.
-\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-\xf000Ă\x0001\x0000's burn was healed.
-\xf000Ă\x0001\x0000 was thawed out.
-PP was restored.　
-\xf000Ă\x0001\x0000 recovered from\xfffefainting!
-\xf000Ă\x0001\x0000 became healthy.
-\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
-\xf000Ă\x0001\x0000 \xfffegot over its infatuation.
-\xf000Ă\x0001\x0000 woke up.
-\xf000Ă\x0001\x0000 has already been\xfffeselected.
-Restore which move?
-\xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-\xf000Ă\x0001\x0000 is already switched\xfffeout.
+\xf000Ă\x0001\x0000 is\xfffeal in gevecht!
+\xf000Ă\x0001\x0000 heeft geen energie\xfffeover om te vechten!
+\xf000Ă\x0001\x0000 kan niet gewisseld\xfffeworden!
+Een ei kan niet vechten!
+Je kunt niet beslissen\xfffevoor je partner!
+Dat heeft geen effect.
+\xf000Ă\x0001\x0000's HP is hersteld\xfffemet \xf000Ȃ\x0001\x0001 punt(en).
+\xf000Ă\x0001\x0000 is hersteld van\xfffevergiftiging.
+\xf000Ă\x0001\x0000 is hersteld van\xfffeverlamming.
+\xf000Ă\x0001\x0000's brandwond is genezen.
+\xf000Ă\x0001\x0000 is ontdooid.
+PP is hersteld.　
+\xf000Ă\x0001\x0000 hersteld van\xfffebewusteloosheid!
+\xf000Ă\x0001\x0000 is weer gezond.
+\xf000Ă\x0001\x0000 brak uit zijn/haar\xfffeverwarring.
+\xf000Ă\x0001\x0000 \xfffeis niet meer verdwaasd.
+\xf000Ă\x0001\x0000 is wakker geworden.
+\xf000Ă\x0001\x0000 is al geselecteerd.
+Herstel welke aanval?
+\xf000ć\x0001\x0001's effect voorkomt\xfffehet voorwerp's gebruik op \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 kan niet worden\xfffegewisseld!
+\xf000Ă\x0001\x0000 is al gewisseld.
