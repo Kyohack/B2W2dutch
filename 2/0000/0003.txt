@@ -1,61 +1,61 @@
-Would you like to save the last battle\xfffeas your Battle Video?
-Yes
-No
-The last battle will not be saved.\xfffeOK?
-Yes
-No
-Is it OK to overwrite your existing\xfffeBattle Video?
-Yes
-No
-Saving your Battle Video...\xfffeDon't turn off the power.
-The Battle Video has been saved.
-There was an error.\xfffeThe Battle Video couldn't be saved.
-Awaiting your friend's decision...\xfffePlease wait.
-You cannot record videos\xfffewith this Trainer... Please wait.
-+You cannot record videos\xfffewith this Trainer.
-The last battle cannot be recorded.
-Time Limit:
+Wil je het laatste gevecht opslaan\xfffeals gevechts video?
+Ja
+Nee
+Het laatste gevecht wordt niet opgeslagen.\xfffe
+Ja
+Nee
+Is het goed om je bestaande gevechts video\xfffete overschrijven?
+Ja
+Nee
+Gevechts video aan het opslaan...\xfffeZet het spel niet uit.
+De gevechts video is opgeslagen
+Er is een fout opgetreden.\xfffeDe gevechts video kan niet worden opgeslagen
+Aan het wachten op je vriends besluit.\xfffeWacht a.u.b.
+Je kan geen video's opslaan\xfffemet deze trainer... Wacht a.u.b.
++Je kan geen video's opslaan\xffemet deze trainer.
+Het laatste gevecht kan niet worden opgeslagen
+Tijds Limiet:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-PREVIOUS RECORD
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
-Colosseum Double,\xfffeNo Restrictions
-Colosseum Double,\xfffeFlat
-Colosseum Double,\xfffeNo Restrictions, Launcher On
-Colosseum Double,\xfffeFlat, Launcher On
-Colosseum Triple,\xfffeNo Restrictions
-Colosseum Triple,\xfffeFlat
-Colosseum Triple,\xfffeNo Restrictions, Launcher On
-Colosseum Triple,\xfffeFlat, Launcher On
-Colosseum Rotation,\xfffeNo Restrictions
-Colosseum Rotation,\xfffeFlat
-Colosseum Rotation,\xfffeNo Restrictions, Launcher On
-Colosseum Rotation,\xfffeFlat, Launcher On
-Colosseum Multi,\xfffeNo Restrictions
-Colosseum Multi,\xfffeFlat
-Colosseum Multi,\xfffeNo Restrictions, Launcher On
-Colosseum Multi,\xfffeFlat, Launcher On
-Battle Subway,\xfffeSingle
-Battle Subway,\xfffeDouble
-Battle Subway,\xfffeMulti
-Random Matchup, Free\xfffeSingle
-Random Matchup, Free\xfffeDouble
-Random Matchup, Free\xfffeTriple
-Random Matchup, Free\xfffeRotation
-Random Matchup, Free\xfffeLauncher Battle
-Random Matchup, Rating\xfffeSingle
-Random Matchup, Rating\xfffeDouble
-Random Matchup, Rating\xfffeTriple
-Random Matchup, Rating\xfffeRotation
-Random Matchup, Rating\xfffeLauncher Battle
-Competition, Single\xfffeLauncher Off
-Competition, Single\xfffeLauncher On
-Competition, Double\xfffeLauncher Off
-Competition, Double\xfffeLauncher On
-Competition, Triple\xfffeLauncher Off
-Competition, Triple\xfffeLauncher On
-Competition, Rotation\xfffeLauncher Off
-Competition, Rotation\xfffeLauncher On
+VORIG RECORD
+Colosseum Enkel,\xfffeGeen beperkingen
+Colosseum Enkel,\xfffeMet regels
+Colosseum Enkel,\xfffeGeen beperkingen, Launcher aan
+Colosseum Enkel,\xfffeMet regels, Launcher aan
+Colosseum Dubbel,\xffeGeen beperkingen
+Colosseum Dubbel,\xffeMet regels
+Colosseum Dubbel,\xfffeGeen beperkingen, Launcher aan
+Colosseum Dubbel,\xfffeMet regels, Launcher aan
+Colosseum Driedubbel,\xfffeGeen beperkingen
+Colosseum Driedubbel,\xfffeMet regels
+Colosseum Driedubbel,\xfffeGeen beperkingen, Launcher aan
+Colosseum Driedubbel,\xfffeMet regels, Launcher aan
+Colosseum Rotatie,\xfffeGeen beperkingen
+Colosseum Rotatie,\xfffeMet regels
+Colosseum Rotatie,\xfffeGeen beperkingen, Launcher aan
+Colosseum Rotatie,\xfffeMet regels, Launcher aan
+Colosseum Meervoudig,\xfffeGeen beperkingen
+Colosseum Meervoudig,\xfffeMet regels
+Colosseum Meervoudig,\xfffeGeen beperkingen, Launcher aan
+Colosseum Meervoudig,\xfffeMet regels, Launcher aan
+Gevechts Metro,\xfffeEnkel
+Gevechts Metro,\xfffeDubbel
+Gevechts Metro,\xfffeMeervoudig
+Willekeurige Meeting, Gratis\xfffeEnkel
+Willekeurige Meeting, Gratis\xfffeDubbel
+Willekeurige Meeting, Gratis\xfffeDrievoudig
+Willekeurige Meeting, Gratis\xfffeRotatie
+Willekeurige Meeting, Gratis\xfffeLauncher Gevecht
+Willekeurige Meeting, met Rang\xfffeEnkel
+Willekeurige Meeting, met Rang\xfffeDubbel
+Willekeurige Meeting, met Rang\xfffeDrievoudig
+Willekeurige Meeting, met Rang\xfffeRotatie
+Willekeurige Meeting, met Rang\xfffeLauncher Gevecht
+Competitie, Enkel\xfffeLauncher uit
+Competitie, Enkel\xfffeLauncher aan
+Competitie, Dubbel\xfffeLauncher uit
+Competitie, Dubbel\xfffeLauncher aan
+Competitie, Drievoudig\xfffeLauncher uit
+Competitie, Drievoudig\xfffeLauncher aan
+Competitie, Rotatie\xfffeLauncher uit
+Competitie, Rotatie\xfffeLauncher aan
