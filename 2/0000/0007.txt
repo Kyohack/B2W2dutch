@@ -1,20 +1,20 @@
-Welcome to\xfffeBattle Competition!
-There are two kinds of Battle Competition.\xfffeOne is the Wi-Fi Competition, which is held\xf000븀\x0000\xfffevia Nintendo Wi-Fi Connection, and the\xf000븀\x0000\xfffeother is the Live Competition, which is\xf000븀\x0000\xfffeheld at certain events.\xf000븁\x0000\xfffeOnly Pokémon registered in your\xfffeBattle Box can participate.\xf000븁\x0000\xfffeOnce registered, you cannot move\xfffeyour Pokémon to and from your\xf000븀\x0000\xfffeBattle Box.\xf000븁\x0000\xfffeWhen you participate in a competition,\xfffeyour Digital Player ID will be updated.\xf000븀\x0000\xfffePlease check it.\xf000븁\x0000
-To the Wi-Fi Competition
-To the Live Competition
-Check your Digital Player ID
+Welkom in\xfffede Gevechts Competitie!
+Er zijn twee verschillende soorten Gevechts Competitie.\xfffeÉén is de Wi-Fi Competitie, die gehouden wordt via\xf000븀\x0000\xfffeNintendo Wi-Fi Connectie, en de\xf000븀\x0000\xfffeandere is de Live Competitie welke is\xf000븀\x0000\xfffeop speciale evenementen.\xf000븁\x0000\xfffeAlleen Pokémon die gerigestreerd staan\xfffein je Gevechts Opslag kunnen meedoen.\xf000븁\x0000\xfffeEenmaal geregistreerd, kan je niet\xfffeje Pokémon van en naar je\xf000븀\x0000\xfffeGevechts Opslag verplaatsen.\xf000븁\x0000\xfffeAls je mee doet met de competitie,\xfffezal je Digitale Speler ID geupdated worden.\xf000븀\x0000\xfffeControleer het a.u.b.\xf000븁\x0000
+Naar de Wi-Fi Competitie
+Naar de Live Competitie
+Controleer je Digitale Speler ID
 Info
-Back
-Participate
-To participate in the Wi-Fi Competition,\xfffeyou'll need to access the webpage\xf000븀\x0000\xfffeof the Pokémon Global Link to register.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePlease check the Pokémon Global Link\xfffewebpage for the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
-Will you participate in\xfffethe Wi-Fi Competition?
-Do you want to quit\xfffethe Wi-Fi Competition?
-Yes
-No
-Cancel participation
-Will you participate in\xfffethe Live Competition?
-You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
-If the power goes out\xfffeduring a tournament or a\xf000븀\x0000\xffferandom match on Wi-Fi,\xf000븁\x0000\xfffePlease\xfffetry again in about\xf000븀\x0000\xfffeone hour's time.\xf000븁\x0000
-\xfffeis saving! Don't turn of the power!
-Battle Points will be awarded\xfffeat the results of the competition!\xf000븁\x0000
-\xf000Ā\x0001\x0000has obtained \xfffe\xf000ȁ\x0001\x0001BP! \xf000븁\x0000
+Terug
+Meedoen
+Om mee te doen in de Wi-Fi Competitie,\xfffeheb je verbinding nodig met de internet pagina\xf000븀\x0000\xfffevan de Pokémon Global Link om te regristreren.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffeControleer a.u.b. de Pokémon Global Link\xfffewebpagina voor de competitie regelementen,\xf000븀\x0000\xfffede duur, en andere informatie.\xf000븁\x0000
+Wil je meedoen met\xfffede Wi-Fi Competitie?
+Wil je stoppen met\xfffede Wi-Fi Competitie?
+Ja
+Nee
+Annuleren inschrijving
+Wil je meedoen in\xfffede Live Competitie?
+Je kan de informatie controleren\xfffemet betrekking tot de Live Competitie op de\xf000븀\x0000\xfffeOfficiële Pokémon website:\xf000븀\x0000\xfffehttp://www.pokemon.com\xf000븁\x0000\xfffeControleer a.u.b. de officiële Pokémon website\xfffevoor de competitie regelementen,\xf000븀\x0000\xfffede duur, en andere informatie.\xf000븁\x0000
+Als de accu leeg is\xfffetijdens een toernooi of een\xf000븀\x0000\xfffewillekeurige wedstrijd op Wi-Fi,\xf000븁\x0000\xfffeProbeer\xffea.u.b. opnieuw in ongeveer\xf000븀\x0000\xfffeéén uur.\xf000븁\x0000
+\xfffeaan het opslaan! Zet het spel niet uit!
+Gevechts Punten zullen worden ontvangen\xfffeaan het einde van de competitie!\xf000븁\x0000
+\xf000Ā\x0001\x0000 heeft\xfffe\xf000ȁ\x0001\x0001BP ontvangen! \xf000븁\x0000
