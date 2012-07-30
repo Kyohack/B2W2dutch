@@ -1,22 +1,22 @@
-USE
-TRASH
-REGISTER
-GIVE
-VIEW
-CONFIRM
-WALK
-BACK
-CANCEL
-SHOW
+GEBRUIK
+GOOI WEG
+REGISTREER
+GEEF
+BEKIJK
+BEVESTIG
+LOOP
+TERUG
+ANNULEER
+LAAT ZIEN
 DUMMY
-CANCEL
-BAG
-MAIL
-TAKE
-GIVE
-CHECK
-NOTHING
-DESELECT
+ANNULEER
+TAS
+POST
+NEEM
+GEEF
+CONTROLEER
+NIETS
+DESELECTEER
 ???
 ????
 ／
@@ -33,9 +33,9 @@ No.
 ID No.
 　
 Cursor
-Go back!
-What now?
-Give
+Ga terug!
+Wat nu?
+Geef
 \xf000Ȃ\x0001\x0000
 ×
 Drink
@@ -43,7 +43,7 @@ Drink
 Close
 \xf000ĉ\x0001\x0000 is selected.
 You cannot write\xfffemail here！
-There's no Pokémon!
+Er is geen Pokémon!
 Move \xf000ĉ\x0001\x0000.
 The \xf000ĉ\x0001\x0000 can't be held.
 You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
