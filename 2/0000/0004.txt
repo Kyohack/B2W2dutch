@@ -1,3 +1,3 @@
-Delete all saved data?
-Once the saved data has been deleted,\xfffethere is no way to recover it.\xf000븁\x0000\xfffeIs it really OK to delete\xfffeall saved data?
-Deleting all saved data...\xfffeDon't turn off the power.
+Alle opgeslagen data verwijderen?
+Als de opgeslagen data eenmaal verwijderd is,\xfffethere is er geen manier om het terug te krijgen.\xf000븁\x0000\xfffeIs het werkelijk goed\xfffeom alle opgeslagen data te verwijderen?
+Alle opgeslagen data verwijderen...\xfffeSchakel je systeem niet uit.
