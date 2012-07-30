@@ -121,7 +121,7 @@ Vuur
 Water
 Electrisch
 Gras
-Ijs
+IJs
 Vecht
 Gif
 Grond
