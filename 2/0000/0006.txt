@@ -1,22 +1,22 @@
-USE
-TRASH
-REGISTER
-GIVE
-VIEW
-CONFIRM
-WALK
-BACK
-CANCEL
-SHOW
-DUMMY
-CANCEL
-BAG
-MAIL
-TAKE
-GIVE
-CHECK
-NOTHING
-DESELECT
+Gebruik
+Wegggooien
+Regristreer
+Geef
+Kijk
+Ok
+Loop
+Terug
+Weigeren
+Laat zien
+Pop
+Weigeren
+Tas
+E-mail
+Aannemen
+Geef
+Controleren
+Niks
+Deselecteren
 ???
 ????
 ／
@@ -32,37 +32,37 @@ No.
 →
 ID No.
 　
-Cursor
-Go back!
-What now?
-Give
+Aanwijzer
+Ga terug!
+Wat nu?
+Geef
 \xf000Ȃ\x0001\x0000
 ×
 Drink
 \xf000ȃ\x0001\x0000まい
-Close
-\xf000ĉ\x0001\x0000 is selected.
-You cannot write\xfffemail here！
-There's no Pokémon!
-Move \xf000ĉ\x0001\x0000.
-The \xf000ĉ\x0001\x0000 can't be held.
-You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
-Store how many\xfffe\xf000ĉ\x0001\x0000?
-You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
-You can't store any more!
-This is an important item\xfffeso you can't throw it away！
-Throw away how many\xfffe\xf000ĉ\x0001\x0000?
-Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
-Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
-Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
-You can't dismount your Bike here.
-Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
-Your Coins: \xf000Ȅ\x0001\x0000
-Booted up a TM.
-Booted up an HM.
-It contained\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeTeach \xf000ć\x0001\x0000\xfffeto a Pokémon?
+Dicht maken
+\xf000ĉ\x0001\x0000 is geselecteerd.
+U kan niet write\xfffe E-mailen hier！
+Hier zijn geen Pokémon!
+verplaats \xf000ĉ\x0001\x0000.
+we zijn \xf000ĉ\x0001\x0000 niet aanspraakelijk.
+Je kan hem niet geven\xfffe\xf000ĉ\x0001\x0000 Hier!
+Hoe veel winkels\xfffe\xf000ĉ\x0001\x0000?
+Succesvol gewinkeld\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+U kunt niet meer winkelen!
+Dit is een belangrijk voorwerp\xfffeso U kunt het niet weggooien!
+Gooiweg en hoeveel\xfffe\xf000ĉ\x0001\x0000?
+Gooiweg \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Is het OK om het weg te gooien\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
+Juniper's woorden echode...\xfffe\xf000Ā\x0001\x0000! Hier is een tijd en\xf000븀\x0000\xfffePlaats voor alles! maar niet nu.
+U kan hier niet op uw fiets.
+Juniper's woorden echode...\xfffe\xf000Ā\x0001\x0000! hier is een tijd en\xf000븀\x0000\xfffeplaats voor alles! maar niet nu.
+Uw munten: \xf000Ȅ\x0001\x0000
+Een TM opstarten.
+Een HM opstarten.
+het bevatte\xfffe\xf000ć\x0001\x0000.\xf000븁\x0000\xfffeTeach \xf000ć\x0001\x0000\xfffeto een Pokémon?
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-Since a Repel's effects still linger,\xfffeyou can't use this now.
+Aangezien de repel efecten nog steeds bestaan,\xfffe kun je de repel niet op nieuw activeren.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured!
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled!
 The box is full!
