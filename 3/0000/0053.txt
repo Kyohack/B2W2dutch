@@ -12,13 +12,13 @@
 Snivy
 Oshawott
 Tepig
-Back
-Do you have Snivy?
-Do you have Oshawott?
-Do you have Tepig?
-Then, what is the Pokémon you chose\xfffeat the beginning of your journey?
-If you want to tell me, please speak\xfffeto me!
+Terug
+Heb je een Snivy?
+Heb je een Oshawott?
+Heb je een Tepig?
+Wat is dan de Pokémon die je koos\xfffeaan het begin van je reis?
+Als je het wilt zeggen, praat dan\xfffemet me!
 レッツ　トライ　ヒウンラリー！\xfffeバトルカンパニー　オーケー！！
 バトルカンパニーは　ポケモンと\xfffeトレーナーのための　どうぐを\xf000븀\x0000\xfffeいろいろ　かいはつ　してるー！
-This is Battle Company.\xfffeResearch and Development of Items!
-Burgh's signature is scrawled in the\xfffecorner of the painting.
+Dit is het Gevechts Bedrijf.\xfffeOnderzoek en Ontwikkeling van Items!
+Burgh's handtekening staat\xfffein de hoek van het schilderij.
