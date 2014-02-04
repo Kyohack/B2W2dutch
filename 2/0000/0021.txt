@@ -7,7 +7,7 @@ PP
 \xf000Ȃ\x0001\x0000
 ／
 \xf000ȁ\x0001\x0000
-Playback paused...\xfffePlease wait a moment.
-Data is corrupted.\xfffePlayback canceled.
-Skipping the video...\xfffePlease wait a moment.
-Playback stopped...\xfffePlease wait a moment.
+Het afspelen gepauzeerd ... \xfffe A.U.B. even wachten.
+De gegevens zijn beschadigd. \xfffe afspelen geannuleerd.
+Het overslaan van de video ...\xfffe A.U.B. even wachten.
+Het afspelen gestopt ...\xfffe A.U.B. even wachten.
