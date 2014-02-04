@@ -1,40 +1,40 @@
-What language would you like the\xfffePokémon names to be?\xf000븀\x0000
-English
-Japanese
-The Pokémon names will be\xfffein English.\xf000븁\x0000
-The Pokémon names will be\xfffein Japanese.\xf000븁\x0000
-Creating save data.\xfffePlease wait...
-Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
-My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
-That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
-Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
-Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
-Are you a boy?\xfffeOr a girl?\xf000븁\x0000
-You're a boy, right?\xf000븁\x0000
-You're a girl, right?\xf000븁\x0000
-What do you think of\xfffe\xf000Ĝ\x0001\x0000?
-Do you think \xf000Ĝ\x0001\x0000\xfffecan \xf000Ĝ\x0001\x0001?
-I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-YES
-NO
-So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-Well then. I'm going to introduce you\xfffeto your two best friends!\xf000븁\x0000
-Allow me to introduce you\xfffeto your rival.\xf000븀\x0000\xfffeHe lives in your city.\xf000븁\x0000
-Now what was\xfffehis name again...\xf000븁\x0000
+Welke taal wil je de\xfffePokémon namen in?\xf000븀\x0000
+Engels
+Japans
+De Pokémon namen zullen in het\xfffeEngels zijn.\xf000븁\x0000
+De Pokémon namen zullen in het\xfffeJapans zijn.\xf000븁\x0000
+Het maken van opslaan gegevens.\xfffeEven geduld...
+Hallo daar!\xf000븁\x0000\xfffeWelkom in de wereld van Pokémon!\xf000븁\x0000
+Mijn naam is Professor Juniper.\xfffeIedereen noemt me de Pokémon Professor!\xf000븁\x0000
+Deze wereld wordt op grote schaal\xfffebewoond door mysterieuze wezens\xf000븀\x0000\xfffePokémon genaamd!\xf000븁\x0000
+Pokémon hebben mysterieuze krachten.\xfffeZe hebben vele vormen\xf000븀\x0000\xfffeen leven op veel verschillende plaatsen.\xf000븁\x0000\xfffeWij mensen leven samen met Pokémon!\xfffeLeven en werken samen,\xf000븀\x0000\xfffewe vullen elkaar aan.\xf000븁\x0000\xfffeWe helpen elkaar om\xfffemoeilijke taken te volbrengen.\xf000븁\x0000\xfffePokémon met elkaar laten vechten\xfffeis extreem populair, en het versterkt\xf000븀\x0000\xfffede band tussen mensen en Pokémon.\xf000븀\x0000\xfffeEn dat is waarom ik Pokémon bestudeer.\xf000븁\x0000
+Nou, dat is genoeg over mij...\xfffeKun je me iets over jou vertellen?\xf000븁\x0000
+Ben je een jongen?\xfffeOf een meisje?\xf000븁\x0000
+Je bent een jongen, toch?\xf000븁\x0000
+Je bent een meisje, toch?\xf000븁\x0000
+Hoe denk je over\xfffe\xf000Ĝ\x0001\x0000?
+Denk je \xf000Ĝ\x0001\x0000\xfffecan \xf000Ĝ\x0001\x0001?
+Ik wil graag je naam weten.\xf000븁\x0000\xfffewil je me die vertellen?\xf000븁\x0000
+Je naam is \xf000Ā\x0001\x0000?\xf000븁\x0000
+Je naam is \xf000Ā\x0001\x0000?\xf000븁\x0000
+JA
+NEE
+Dus je naam is \xf000Ā\x0001\x0000.\xfffeWat een mooie naam!\xf000븁\x0000
+Nou dan ga ik je nu voorstellen\xfffeaan je twee beste vrienden!\xf000븁\x0000
+Laat me je voorstellen\xfffeaan je rivaal.\xf000븀\x0000\xfffeHij woont in jou stad.\xf000븁\x0000
+Wat was \xfffezijn naam ook alweer...\xf000븁\x0000
 Hugh
 Default 1
 Default 2
 What is his name?
 \xf000Ā\x0001\x0001　is\xfffehis name?\xf000븁\x0000
-This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
-This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeIt's important that you\xfffeget going and pick up your\xf000븀\x0000\xfffenew Pokémon.\xf000븁\x0000
-That Pokémon will become\xfffeyour partner.\xf000븁\x0000\xfffeAfter that, your journey\xfffewill begin!\xf000븁\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000븀\x0000\xfffepersonalities and\xf000븀\x0000\xfffepoints of view!\xf000븁\x0000\xfffeI really hope you find\xfffewhat is important to you\xf000븀\x0000\xfffein all of these travels...\xf000븁\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000븀\x0000\xfffegrow as a person!\xf000븁\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000븁\x0000\xfffeLet's go visit the world of Pokémon!\xf000븁\x0000
-Hold on a second...!\xfffeI'm making some preparations here.
-Alright!\xfffeThat'll do 'er!\xf000븁\x0000
-Warning!\xfffeYou have another save file,\xfffeso on the journey you're about to start,\xfffeyou won't be able to save.\xfffeIs that okay?
-Start adventure
-Return to menu
-Skip demo?
+Deze jongeman is Cheren.\xf000븁\x0000\xfffeHij kan af en toe wat lastig zijn, maar\xfffehij is een eerlijk persoon.\xf000븁\x0000
+Deze jongedame is Bianca.\xf000븁\x0000\xfffeZe is een klein beetje vluchtig,\xfffemaar ze werkt heel hard.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeHet is belangrijk dat je\xfffenieuwe Pokémon\xf000븀\x0000\xfffegaat halen.\xf000븁\x0000
+Die Pokémon zal jou\xfffepartner worden.\xf000븁\x0000\xfffedaarna, zal jou avontuur\xfffebeginnen!\xf000븁\x0000\xfffeTijdens je avontuur, zul je verschillende\xfffemensen en Pokémon met verschillende\xf000븀\x0000\xfffepersoonlijkheden en\xf000븀\x0000\xfffeandere standpunten ontmoeten!\xf000븁\x0000\xfffeIk hoop echt dat je\xfffevindt wat belangrijk is voor jou\xf000븀\x0000\xfffeen in al je reizen...\xf000븁\x0000\xfffeInderdaad! wordt bevriend met\xfffenieuwe mensen en Pokémon en\xf000븀\x0000\xfffegroei als persoon!\xf000븁\x0000\xfffeDat is het belangrijkste doel\xfffevoor je reis!\xf000븁\x0000\xfffeLaten we gaan naar de wereld van Pokémon!\xf000븁\x0000
+Wacht heel even...!\xfffeIk bereid wat dingen voor.
+Okee!\xfffeNu zal het lukken!\xf000븁\x0000
+Opgelet!\xfffeJe hebt andere opgeslagen gegevens,\xfffeDe reis die je wilt beginnen,\xfffezal je niet kunnen opslaan.\xfffeIs dat oke?
+Start avontuur
+Terug naar het menu
+Demo overslaan?
